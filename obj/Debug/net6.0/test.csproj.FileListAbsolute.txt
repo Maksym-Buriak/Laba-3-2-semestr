@@ -1,0 +1,17 @@
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\bin\Debug\net6.0\test.exe
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\bin\Debug\net6.0\test.deps.json
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\bin\Debug\net6.0\test.runtimeconfig.json
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\bin\Debug\net6.0\test.dll
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\bin\Debug\net6.0\test.pdb
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\test.dll
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\refint\test.dll
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\test.pdb
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\ref\test.dll
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\programming\project\Лабораторна робота 3 (2 семестр)\test\obj\Debug\net6.0\test.csproj.CopyComplete
